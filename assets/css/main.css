@@ -3911,10 +3911,16 @@ input, select, textarea {
 		.profile-container{
 			display: flex;
 			align-items: center;
-			justify-content: space-between;
+			justify-content: space-around;
 		}
 
 		.profile-pic {
 			border: none;
 			border-radius: 90%;
 		}
+
+		/* .button-container{
+			display:flex;
+			align-items: center;
+			width: 300px;
+		} */
