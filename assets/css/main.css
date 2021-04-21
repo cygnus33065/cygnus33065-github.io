@@ -3907,3 +3907,14 @@ input, select, textarea {
 			}
 
 		}
+
+		.profile-container{
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+		}
+
+		.profile-pic {
+			border: none;
+			border-radius: 90%;
+		}
