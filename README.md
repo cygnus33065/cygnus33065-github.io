@@ -1,1 +1,1 @@
-# cygnus33065-github.io
+# cygnus33065.github.io
